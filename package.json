@@ -1,6 +1,6 @@
 {
     "name": "@polpware/scripts-nfy",
-    "version": "2.6.2",
+    "version": "2.6.3",
     "dependencies": {
         "appear": "^1.0.1",        
         "animate.css": "^3.7.0",
